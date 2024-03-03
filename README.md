@@ -3,7 +3,7 @@
 
  /**
  *
- * @author Marcos Gabriel Soares Cruz  <marcossetecruzsoares@gmail.com>
+ * @author Marcos Gabriel S. Cruz  <marcossetecruzsoares@gmail.com>
  */
 
  /*
